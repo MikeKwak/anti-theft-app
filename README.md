@@ -1,7 +1,5 @@
 # Watchful Eye Web Application
 
-![Watchful Eye Logo](client/public/Screenshot 2024-05-18 at 1.31.24 AM.png)
-
 Guard your laptop with the vigilant protection of Watchful Eye – the ultimate short-term security solution for your device. Whether you're taking a quick break or grabbing a coffee in a public place, activate Watchful Eye to keep potential threats at bay.
 
 ## Key Features
